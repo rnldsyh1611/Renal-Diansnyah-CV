@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Diskominfostandi as Cyber Security**
 
-- 🌱 I’m currently learning **Cyber Securirty and Any IT's**
+- 🌱 I’m currently learning **Cyber Securirty and other IT**
 
 - 📫 How to reach me **renaldiansyah16@gmail.com**
 
