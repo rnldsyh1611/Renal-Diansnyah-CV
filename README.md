@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renal Diansyah</h1>
-<h3 align="center">As a penetration tester, I specialize in identifying and exploiting security vulnerabilities across web applications, networks, and IT infrastructure. Proficient in Metasploit, Nmap, Burp Suite, and WPScan with a solid understanding of the OWASP Top 10. Passionate about enhancing security through methodical penetration testing and collaboration with cross-functional teams.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rnldsyh1611" alt="rnldsyh1611" /></a> </p>
+<h4 align="center">As a penetration tester, I specialize in identifying and exploiting security vulnerabilities across web applications, networks, and IT infrastructure. Proficient in Metasploit, Nmap, Burp Suite, and WPScan with a solid understanding of the OWASP Top 10. Passionate about enhancing security through methodical penetration testing and collaboration with cross-functional teams.</h4>
 
 - 🔭 I’m currently working on **Diskominfostandi as Cyber Security**
 
