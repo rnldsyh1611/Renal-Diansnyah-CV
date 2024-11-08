@@ -55,7 +55,9 @@ As a penetration tester, I specialize in identifying and exploiting security vul
 ## Certifications & Skills
 - **Soft Skills**: DevOps (Git, Docker, Sonarqube, Jenkins, Prometheus, Grafana), Networking Basics, Linux Basics, Cisco Basics, Cyber Threat Management
 - **Pentesting Tools**: SQLMap, Wazuh, Nmap, Acunetix
-- **Operating System** : ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **Operating System** :
+- 
+- https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg
 ## Webinars
 - Purple Teaming for Web Application Security
 - Wazuh From Zero to Hero
