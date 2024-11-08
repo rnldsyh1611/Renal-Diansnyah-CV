@@ -57,7 +57,7 @@ As a penetration tester, I specialize in identifying and exploiting security vul
 - **Pentesting Tools**: SQLMap, Wazuh, Nmap, Acunetix
 
 ## Webinars
-- Purple Teaming for Web Application Security
+- Purple Teaming for Web Application Security [![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1uKEHxN76OYBUa1sqwl6u_bN7OoPnnNGX/view?usp=drive_link)
 - Wazuh From Zero to Hero
 - Exploitation, Detection, and Response in Purple Teaming
 
