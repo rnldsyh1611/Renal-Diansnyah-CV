@@ -8,6 +8,45 @@
 - 📫 How to reach me **renaldiansyah16@gmail.com**
 
 - ⚡ Fun fact **I'm a gamer DOTA 2 Player**
+  
+  ## Work Experience
+
+- **Pentester**  
+  **Diskominfostandi Bekasi Kota**  
+  *Feb 2024 - Present*  
+  - Conducted vulnerability assessments, discovering critical vulnerabilities (SQL Injection, XSS) and reducing risk by 80%.
+  - Created RPA tools for removing defacement indexes on Google.
+  - Integrated Telegram notifications for WAZUH alerts.
+
+- **Admin**  
+  **PT Bank Central Asia Tbk**  
+  *Feb 2021 - Oct 2023*  
+  - Managed settlement and refunds for failed transactions.
+
+- **Operator**  
+  **PT. Rama Putra**  
+  *May 2018 - Aug 2018*  
+  - Managed product sales and returns.
+
+- **Website Development (Basic)**  
+  **PT. Bintang Toedjoe**  
+  *Jul 2016 - Sep 2016*  
+  - Developed a company profile website with basic HTML.
+
+- **Animator Product**  
+  **PT. Denso Indonesia**  
+  *Sep 2011 - Oct 2011*  
+  - Created product animations for company profiles.
+
+---
+
+## Education
+- **Bachelor of Information Technology**  
+  **Kalbis Institute**  
+  *Jul 2013 - Dec 2017*  
+  - Achieved recognition in Kalbis Software Competition 2014.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
